@@ -1,0 +1,2 @@
+# config
+save server config
