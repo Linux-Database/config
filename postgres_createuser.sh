@@ -1,3 +1,4 @@
+echo "ユーザー入力なしはエラーpsqlはエラーになりますがpg_hbaの編集に入ります"
 echo -n INPUT_user:
 read str
 echo  "create user and db :  $str"
