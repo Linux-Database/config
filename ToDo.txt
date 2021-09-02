@@ -12,7 +12,7 @@ MDB3認証
 MDB4認証
 MDB5認証
 Postgresセットアップ　（インストール、initdb,ポート開放） 完了
-通信SSL化（オリジナリティ〜）　作業完了、文章化待ち
+通信SSL化（オリジナリティ〜）　完了
 認証追加作業検証用Shell script　完成
 Po1認証(Trust認証)　完成
 Po2認証
