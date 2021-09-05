@@ -15,8 +15,8 @@ Postgresセットアップ　（インストール、initdb,ポート開放） �
 通信SSL化（オリジナリティ〜）　完了
 認証追加作業検証用Shell script　完成
 Po1認証(Trust認証)　完成
-Po2認証
-Po3認証
+Po2認証(PA-SHA256)　完成
+Po3認証(PA-MD5)完成　両方の比較付き
 Po4認証
 Po5認証（radius認証）　完成
 （pg_hbaのスクショは全部おわたあとにはる）
